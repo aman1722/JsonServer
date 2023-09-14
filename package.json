@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/aman1722/JsonServer/issues"
   },
-  "homepage": "https://github.com/aman1722/JsonServer#readme"
+  "homepage": "https://github.com/aman1722/JsonServer#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
 }
